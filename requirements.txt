@@ -1,0 +1,7 @@
+Flask
+pymongo
+pandas
+matplotlib
+jupyter
+dnspython
+gunicorn
